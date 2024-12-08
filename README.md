@@ -24,7 +24,6 @@ You can view a demo of the project by visiting the following link:
 ## Preview
 ![1](https://github.com/user-attachments/assets/5877b40e-52a6-4546-9403-88efd2c1f5bf)
 
-
 ## 📧 Contact
 For any questions or feedback, feel free to contact:  
 **Ozan Demircan** - ozandmrcn47@gmail.com
