@@ -18,7 +18,7 @@ The **Udemig Scss** website showcases the use of Sass for efficient and organize
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="25" height="25" /> Demo
 You can view a demo of the project by visiting the following link:  
-[https://ozanudemigsass.netlify.app/](https://ozanudemigsass.netlify.app/)
+[Udemig Sass Demo](https://ozanudemigsass.netlify.app/)
 
 ## Preview
 
